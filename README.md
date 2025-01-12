@@ -1,1 +1,8 @@
 # Project-RI-5A
+
+The growing concern about aviations' impact on the environment has brought attention to emissions beyond CO2, especially contrails. Contrails, or condensation trails, are artificial clouds created when aircraft exhaust gas mixes with hot, humid air at high altitudes. These trails can last for hours and affect the Earth's temperature balance, contributing to global warming. Research
+shows that 80% of contrail clouds come from only 5% of flights (Lee et al., 2021), showing the large effect of a small number of flights. Understanding how contrails form and their impacts is important for reducing their harm.
+
+The European Commission now treats non-CO2 emissions as seriously as CO2 emissions, underlining the need for better monitoring and solutions. According to Lee et al., 2021, these non-CO2 effects account for approximately 66% of aviation's total radiative forcing impact. To reduce climate impact, the aviation sector must address both CO2 and non-CO2 effects, especially persistent contrails, which significantly influence climate. Observing contrails from the ground is a practical way to collect detailed data on how they form, last, and interact with the atmosphere. Identifying areas likely to produce contrails, like Ice-Supersaturated Regions (ISSR), is key to this effort.
+
+Previous methods for contrail observation, such as satellite imaging, have significant limitations. Satellite observations often struggle to reliably link contrails to specific flights due to uncertainties in tracking flight paths and atmospheric conditions. While ground-based observation systems exist, they are usually expensive and limited to small, specific areas. These constraints highlight the need for more accessible, low-cost, and scalable solutions.
