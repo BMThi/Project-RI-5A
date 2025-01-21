@@ -1,0 +1,11 @@
+names:
+  0: contrail old
+  1: contrail veryold
+  2: contrail young
+  3: parasite
+  4: sun
+  5: unknow
+path: contrails-2
+test: test/images
+train: train/images
+val: valid/images
