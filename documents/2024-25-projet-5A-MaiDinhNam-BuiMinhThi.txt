@@ -1,0 +1,8 @@
+Contrail Observation and Detection using Ground-Based Cameras
+
+Résumé:
+
+Cette étude propose une approche pour la surveillance des traînées de condensation (contrails), une préoccupation croissante pour la Commission européenne. Ces nuages artificiels, formés par les gaz d'échappement des avions en haute altitude, peuvent persister longtemps et affecter l'équilibre thermique terrestre, contribuant ainsi au réchauffement climatique. 
+La recherche présente une méthodologie pour l'observation au sol des contrails, comprenant le positionnement optimal des caméras et un système de détection basé sur l'intelligence artificielle. Le cadre proposé définit une distance optimale de 11 km entre les caméras, permettant un équilibre entre la qualité d'image et la précision des calculs. Un algorithme a été développé pour approximer les coordonnées GPS des avions.
+Pour la détection et la classification des traînées, un modèle YOLOv8n-OBB a été implémenté, capable de distinguer les contrails jeunes, âgés et très âgés. Bien que le modèle ait été entraîné sur un jeu de données open-source de Roboflow, il montre des performances prometteuses pour la détection des traînées plus anciennes.
+Les développements futurs incluront la validation avec des données réelles et l'identification des régions sursaturées en glace (ISSR) ainsi que des types d'avions responsables des traînées les plus persistantes.
